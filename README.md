@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emcee211
 - 👀 I’m interested in mobile programming and UI/UX
 - 🌱 I’m currently learning android programming in kotlin and flutter!
-- 📫 How to reach me pm me through linkedIn! https://www.linkedin.com/in/emcee211/
 
 <!---
 emcee211/emcee211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
